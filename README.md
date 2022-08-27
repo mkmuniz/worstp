@@ -1,6 +1,8 @@
+**<h2>Yo!</h2>**
+
 I'm 21 years old and like to program :)
 
-**<h3>What you will find in this perfil?</h3>**
+**<h2>What you will find in this perfil?</h2>**
 
 ✔️ Good projects
 

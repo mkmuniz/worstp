@@ -10,6 +10,10 @@ I'm 21 years old and like to program :)
 
 ✔️ A coffe (here, its all yours ☕)
 
+**<h2>Contact</h2>**
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaelmuniz2001@gmail.com)](mailto:mikaelmuniz2001@gmail.com)
+
 <p>
   <div align=center>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worstp&theme=midnight-purple&layout=compact" alt"mikaelmuniz" />

@@ -1,4 +1,4 @@
-**<h2>Yo!</h2>**
+**<h2>About me</h2>**
 
 I'm 21 years old and like to program :)
 

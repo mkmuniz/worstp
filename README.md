@@ -12,7 +12,7 @@ I'm 21 years old and like to program :)
 
 **<h2>Contact</h2>**
 
-[![Linkedin: Mikael](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/)]([https://www.linkedin.com/in/marcelo-takayama-454b85183/](https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/))
+[![Linkedin: Mikael Muniz Ribeiro](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/)](https://www.linkedin.com/in/mikael-muniz-ribeiro-5764961a3/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaelmuniz2001@gmail.com)](mailto:mikaelmuniz2001@gmail.com)
 
 <p>

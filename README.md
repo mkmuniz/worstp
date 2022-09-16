@@ -2,7 +2,7 @@
 
 I'm 21 years old and like to program :)
 
-**<h2>What you will find in this perfil?</h2>**
+**<h2>What will you find in this profile?</h2>**
 
 ✔️ Good projects
 
